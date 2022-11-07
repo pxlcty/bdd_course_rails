@@ -14,3 +14,15 @@ Integration Tests
 - Integration test is when a business process is follwed to completion to meet a business objective
 - Typicalluy involves emulating a user, for example loggin in and clicking on a purchase button etc
 
+====================================================================
+First spec to build : 
+
+1 Visit root page
+2 clic on new article
+3 fill in title
+4 fill in body
+5 create article
+
+Expectations in : 
+Article has been created
+articles path
